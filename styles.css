@@ -43,8 +43,8 @@ header {
 }
 
 #cana-logo {
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 80px;
     margin-right: 1rem;
 }
 
@@ -90,8 +90,8 @@ main {
 }
 
 .logo-placeholder {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: rgba(108, 92, 231, 0.1);
     border-radius: 50%;
     display: flex;
